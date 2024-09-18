@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@media (max-width: 576px) {
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+}
